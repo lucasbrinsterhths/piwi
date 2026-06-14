@@ -1,0 +1,5 @@
+path: C:\Users\lucas\OneDrive\HTHS\RESEARCH\Piwi\piwi\pupae_dataset/dataset
+train: images/train
+val: images/val
+names:
+  0: pupa
